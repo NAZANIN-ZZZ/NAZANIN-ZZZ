@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 💻
+🛣I am a currently work on thesis on LTPP dataset
+📈 I am learning how to find the outliers on my dataset, and not removing important data.☠️
+📌 The other feild on data science that I am currently working on is EDA , and visualisation. 
+
+Bio:
+I graduated from SBU university of Iran, after completing my master in the feild on civil engineering👷🏻‍♀️, where for the first time I have been introduced to the traditional forms of AI👩🏻‍💻.  I been part of establishing a start-up tech company in the feild of construction management in Tehran for 2 years, using ML techniques in infrusrtuctures asset managment. Later, I have moved to uk🛩, to study data scince.🎯
 
 <!--
 **NAZANIN-ZZZ/NAZANIN-ZZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
