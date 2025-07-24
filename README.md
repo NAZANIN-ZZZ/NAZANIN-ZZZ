@@ -1,12 +1,12 @@
 ### Hi there 👋 💻
 
-Bio:
-🎓 I hold two master’s degrees—one in Civil Engineering from SBU University in Iran and another in Data Science from the UK. During my civil engineering studies, I was introduced to traditional AI methods, which sparked my interest in technology. 👷🏻‍♀️
+💻 Data analyst with 6+ years of experience working across infrastructure, energy, and building management systems. I specialize in making sense of messy data using EDA, visualization, and applied machine learning.
 
-💼 I worked for over two years in a tech start-up in Tehran, focusing on construction management. In this role, I applied machine learning techniques to infrastructure asset management projects, bridging the gap between engineering and data science.
+🏢 Passionate about smart buildings, IoT, and energy data—connecting sensors, systems, and ML models to tell the story of what’s happening inside complex facilities.
 
-🔍 I currently work as a data analyst in the fields of facilities, infrastructure, and energy—leveraging tools in EDA, visualization, and applied machine learning to turn complex data into actionable insights.
+📊 From interactive dashboards to predictive models, I love turning raw data into real-world impact using Python, SQL, Power BI, and cloud tools.
 
+Always building. Always learning.
 
 <!--
 **NAZANIN-ZZZ/NAZANIN-ZZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
