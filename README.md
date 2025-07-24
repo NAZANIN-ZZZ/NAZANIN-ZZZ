@@ -2,7 +2,7 @@
 
 💻 Data analyst with 6+ years of experience working across infrastructure, energy, and building management systems. I specialize in making sense of messy data using EDA, visualization, and applied machine learning.
 
-🏢 Passionate about smart buildings, IoT, and energy data—connecting sensors, systems, and ML models to tell the story of what’s happening inside complex facilities.
+🏢 Passionate about smart buildings, IoT, and energy data connecting sensors, systems, and ML models to tell the story of what’s happening inside complex facilities.
 
 📊 From interactive dashboards to predictive models, I love turning raw data into real-world impact using Python, SQL, Power BI, and cloud tools.
 
